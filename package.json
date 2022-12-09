@@ -10,7 +10,7 @@
     "dev": "yarn run nodemon -w src -e ts -x \"ts-node src/app.ts\""
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0",
     "tslib": "^1.9.3"
   },
